@@ -33,3 +33,7 @@ out/
 
 ### Intellij
 .idea
+
+### dotenv
+.env
+
